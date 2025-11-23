@@ -346,6 +346,8 @@ header.sticky {
 }
 
 .mid-text h2 {
+    text-align: center;
+    margin-bottom: 40px;
     margin-top: 22px;
     font-size: var(--h2-font);
 }
